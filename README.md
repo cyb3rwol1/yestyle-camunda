@@ -1,4 +1,6 @@
-# yestyle-camunda
+# yestyle-camunda-plugin
 
-Copiar a pasta /yestyle-camunda
-para ..camunda/plugins
+[documentation]
+
+Copiar a pasta `/yestyle-camunda-plugin`
+para `..camunda/plugins`
