@@ -1,11 +1,12 @@
 {
-  "name": "camunda-modeler-yestyle-plugin",
+  "name": "yestyle-camunda-plugin",
   "version": "0.0.1",
-  "description": "Yestyle Plugin",
+  "description": "Yestyle Camunda Plugin",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/camunda/camunda-modeler-plugins.git"
+    "url": "git+https://github.com/cyb3rwol1/yestyle-camunda-plugin.git"
+    
   },
   "keywords": [
     "camunda",
@@ -17,5 +18,5 @@
   "bugs": {
     "url": "https://github.com/camunda/camunda-modeler-plugins/issues"
   },
-  "homepage": "https://github.com/camunda/camunda-modeler-plugins#readme"
+  "homepage": "https://github.com/cyb3rwol1/yestyle-camunda-plugin"
 }

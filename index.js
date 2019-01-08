@@ -1,6 +1,6 @@
 'use strict';
 
 module.exports = {
-  name: 'Yestyle Plugin',
+  name: 'yestyle-camunda-plugin',
   style: './style/style.css'
 };

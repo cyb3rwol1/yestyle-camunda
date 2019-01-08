@@ -1,7 +1,7 @@
 body {
   /* background: linear-gradient(0deg, #52b415, #eee); */
   background-color: #ccc;
-  /* font-family: 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'; */
+  font-family: 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback';
 }
 
 .content,
@@ -38,7 +38,6 @@ body {
   height: 200px !important;
 }
 
-
 .clear {
   background-color: rgb(230, 75, 75) !important;
   color: white !important;
@@ -53,37 +52,16 @@ body {
   cursor: pointer;
 }
 
-
-/* Ciculo Start */
+/* circle Start */
 .djs-shape g circle[style*="stroke-width: 2px"] {
   stroke: rgb(67, 160, 71) !important;
   fill: rgb(200, 230, 201) !important;
   fill-opacity: 0.95 !important;
 }
 
-/* Ciculo Fim */
+/* circle End */
 .djs-shape g circle[style*="stroke-width: 4px"] {
   stroke: rgb(229, 57, 53) !important;
   fill: rgb(255, 205, 210) !important;
   fill-opacity: 0.95 !important;
 }
-
-/* Task */
-.djs-shape g circle[style*="stroke-width: 4px"] {
-  stroke: rgb(229, 57, 53) !important;
-  fill: rgb(255, 205, 210) !important;
-  fill-opacity: 0.95 !important;
-}
-
-
-
-
-
-
-
-/* #camunda-id{
-  border-top-left-radius: 50% !important;
-  border-top-right-radius: 50% !important;
-  border-bottom-left-radius: 50% !important;
-  border-bottom-right-radius: 50% !important;
-} */
