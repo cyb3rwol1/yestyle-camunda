@@ -33,9 +33,16 @@ body {
   color: rgb(174, 202, 218) !important;
 }
 
+
+
 #camunda-field-value,
 #cam-script-val {
-  height: 200px !important;
+  height: 200px;
+}
+
+#cam-extensionElements-form-fields,
+#camunda-documentation {
+  height: 150px;
 }
 
 .clear {
@@ -50,6 +57,14 @@ body {
 
 #entry {
   cursor: pointer;
+}
+
+/* Documentação */
+#camunda-documentation {
+  font-family: 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback';
+  font-size: 13px !important;
+  background: rgb(54, 52, 52) !important;
+  color: rgb(101, 167, 123) !important;
 }
 
 /* circle Start */
